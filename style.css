@@ -1,0 +1,42 @@
+body{
+  width: 100%;
+  background-color: #0000b3;
+}
+.intro h1{
+  font-size: 40px;
+  color: #d1d1e0;
+  margin-left: 45px;
+}
+#pokeimg{
+  width: 950px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 40px;
+}
+#pokeimg img{
+  border: 3px solid #ffd633;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  margin: 5px;
+}
+#poked{
+  width: 175px;
+  height: 500px;
+  background-color: #4d4dff;
+  display: inline-block;
+  border: 2px solid #ffd633;
+  display: inline-block;
+  position: fixed;
+}
+#poked h1{
+  color:#b3b3cc;
+  margin-left: 5px;
+  border-bottom: 2px solid #d1d1e0;
+  width: 130px;
+}
+#poked h2 h3{
+  margin-left: 20px;
+  color: green;
+}
+
